@@ -9,3 +9,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.cards {
+    width: 18rem;
+}
+
